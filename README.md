@@ -1,1 +1,2 @@
-# trabalhoviel
+No começo do código são importadas as bibliotecas cv2(Open CV), a numply, nomeada como ‘np”, a matplotlib.pyplot, nomeada como ptl e a cv2_imshow, importada do google.colab.patches.
+Posteriormente, utilizando o código cv2.imread(), lê-se a imagem que será armazenada na variável img. Logo depois utiliza-se a função cv2_imshow(img), que abre uma nova janela onde é mostrada a variável “img” em imagem. Depois, a imagem colorida é separada em canais de cores (R, G, B) usando a função cv2.split().
