@@ -11,7 +11,7 @@ O primeiro comando, cv2.imread, usado para ler a imagem e armazená-la na variá
 
 Filtro Especial:
 
-Na primeira linha, a imagem é lida e armazenada na variável img_in. Na segunda linha, nessa linha é criada uma matriz de 5x5 e usa-se Kernel em uma imagem, onde o cálculo servirá para a suavização da imagem. A quarta apresenta a imagem original e a quinta a imagem alterada.
+Na primeira linha, a imagem é lida e armazenada na variável img_in. Na segunda linha, nessa linha é criada uma matriz de 5x5 e usa-se Kernel em uma imagem, onde o cálculo servirá para a suavização da imagem. Na terceira linha, a função filter2D aplica um filtro 2D na variável img_in. A quarta apresenta a imagem original e a quinta a imagem alterada.
 
 Gustavo Sena Vieira.
 
